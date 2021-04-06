@@ -6,7 +6,7 @@ cryptography==2.0.2
 dj-database-url==0.4.2
 Django==1.11.3
 django-mathfilters==0.4.0
-django-registration==2.2
+django-registration==3.1.2
 djangorestframework==3.6.3
 gunicorn==19.7.1
 idna==2.5
